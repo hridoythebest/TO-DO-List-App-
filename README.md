@@ -1,0 +1,3 @@
+# TO-DO LIST APP WITH REACT JS AND REDUX TOOLKIT 
+
+![Demo](https://user-images.githubusercontent.com/115061491/224738473-000b9e03-5f16-4095-8d72-16d245675727.jpg)
